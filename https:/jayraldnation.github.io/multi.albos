@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title> Albos Raider Shop</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&family=Ubuntu+Condensed&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+</section id="title">
+   <nav class="navbar navbar-expand-lg navbar- light bg - light">
+    <a class="navbar-brand" href="#">Albos Raider Shop</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+  <section id="title">
+
+    <!-- Nav Bar -->
+
+
+
+    <!-- Title -->
+    <div class="row">
+
+    <div class="col-lg-6">
+      <h1>The Suzuki Raider R150 Fi in the philippines.</h1>
+      <button type="button">Download</button>
+      <button type="button">Download</button>
+    </div>
+
+    <div class="col-lg-6">
+      <img src="images/raiderblue-img.jpg" alt="motorcycle-mockup">
+    </div>
+
+  </section>
+
+
+  <!-- Features -->
+
+  <section id="features">
+
+<h3>Model profile</h3>
+    <h3>Suzuki Raider R150 Fi Overview.</h3>
+    <p>Suzuki Philippines claims that the R150 Fi is the most powerful 150cc motorcycle in the country, with the power output being inherited from the technologies the brand has developed for its bikes that competed in MotoGP. This version of the “underbone king,” as touted by the Japanese manufacturer because of its strong sales in 2019, is powered by a fuel-injected engine which retails for P109,000.
+
+This bike features an LED headlight to ensure excellent visibility on the road, a fully digital instrument panel, as well as ample storage space underneath the seat. The Suzuki R150 Fi suits those riders seeking to fulfill their racing fantasies.
+
+At the heart of this commuter bike is a 150cc liquid-cooled, DOHC, four-valve, one cylinder engine that produces 18 hp and 14 Nm of torque. Similar to the non-fuel injected Raider R150, the mill is connected to a 6-speed manual transmission.
+
+The R150 Fi also has a ground clearance measuring 150mm, and disc brakes on both wheels are standard.
+</p>
+
+    <h3>VAriants & Pricelist</h3>
+    <p>6-Speed manual
+    Php109.000</p>
+
+
+    <h3>Raider 150 Fi</h3>
+    <h2>Php109.000</h2>
+    <p>Black</p>
+    <p>Motor Central</p>
+    <p>Sariaya,Quezon</p>
+    <p>contact us</p>
+    <p>09112239871</p>
+    <button type="button">Sign Up</button>
+
+
+</body>
+
+</html>
